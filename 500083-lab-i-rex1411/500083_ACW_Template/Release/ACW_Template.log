@@ -1,0 +1,88 @@
+﻿  Arcs.cpp
+  Main.cpp
+  Navigation.cpp
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(194,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(225,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(238,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(270,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(307,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(324,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(344,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(356,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(363,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(367,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(423,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(437,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(444,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(448,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(506,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(518,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(525,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(528,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(584,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(596,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(602,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(605,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(610,16): warning C4114: same type qualifier used more than once
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(611,16): warning C4114: same type qualifier used more than once
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(661,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(674,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(681,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(685,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(741,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(753,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(760,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(764,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(828,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(857,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(863,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(878,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(882,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(932,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(951,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(979,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(985,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1000,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1004,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1051,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1069,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1097,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1103,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1171,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1190,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1218,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1224,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1239,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1243,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1311,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1339,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1345,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1360,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1364,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1413,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1432,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1460,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1466,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1481,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1485,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1535,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1554,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1605,73): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1622,20): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  Generating code
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(510): warning C4715: 'Navigation::ProcessCheckShip': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(429): warning C4715: 'Navigation::ProcessCheckRail': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(588): warning C4715: 'Navigation::ProcessCheckCar': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(832): warning C4715: 'Navigation::ProcessCheckBus': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(665): warning C4715: 'Navigation::ProcessCheckBike': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(745): warning C4715: 'Navigation::ProcessCheckFoot': not all control paths return a value
+  91 of 495 functions (18.4%) were compiled, the rest were copied from previous compilation.
+    48 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ACW_Template.vcxproj -> C:\Users\Zohaib Pc\Source\Repos\500083-lab-i-rex1411\500083_ACW_Template\Release\ACW_Template.exe

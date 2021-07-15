@@ -1,0 +1,60 @@
+﻿  Navigation.cpp
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(225,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(270,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(307,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(344,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(382,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(383,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(400,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(401,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(414,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(423,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(463,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(464,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(482,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(483,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(497,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(506,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(543,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(544,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(561,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(562,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(576,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(584,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(610,16): warning C4114: same type qualifier used more than once
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(611,16): warning C4114: same type qualifier used more than once
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(620,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(621,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(638,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(639,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(652,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(661,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(700,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(701,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(718,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(719,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(732,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(741,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(819,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(828,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(910,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(951,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1032,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1069,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1150,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1190,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1271,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1311,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1392,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1432,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1514,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1554,26): warning C4101: 'exc': unreferenced local variable
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(1605,73): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(348): warning C4715: 'Navigation::ProcessFindNeighbour': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(429): warning C4715: 'Navigation::ProcessCheckRail': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(588): warning C4715: 'Navigation::ProcessCheckCar': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(510): warning C4715: 'Navigation::ProcessCheckShip': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(665): warning C4715: 'Navigation::ProcessCheckBike': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(745): warning C4715: 'Navigation::ProcessCheckFoot': not all control paths return a value
+C:\Users\Zohaib Pc\source\repos\500083-lab-i-rex1411\500083_ACW_Template\Navigation.cpp(832): warning C4715: 'Navigation::ProcessCheckBus': not all control paths return a value
+  ACW_Template.vcxproj -> C:\Users\Zohaib Pc\Source\Repos\500083-lab-i-rex1411\500083_ACW_Template\x64\Debug\ACW_Template.exe
